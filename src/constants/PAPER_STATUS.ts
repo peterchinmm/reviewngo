@@ -1,0 +1,8 @@
+enum PAPER_STATUS {
+    PENDING = "PENDING",
+    REVIEWING = "REVIEWING",
+    ACCEPTED = "ACCEPTED",
+    RESUBMISSION = "RESUBMISSION"
+  }
+  
+  export default PAPER_STATUS;
